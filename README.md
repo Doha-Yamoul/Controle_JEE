@@ -13,5 +13,19 @@ Customer-Service
  Inventory-Service
  
  ![Capture d’écran 2022-11-19 002759](https://user-images.githubusercontent.com/84517689/212777987-82e6fe68-71c7-443a-b4e6-cc185b6e1b84.png)
+ ![Capture d’écran 2023-01-17 015808](https://user-images.githubusercontent.com/84517689/212787249-b6a71ba9-c45a-47b9-b0b5-e71531a915fa.jpg)
+![Capture d’écran 2023-01-17 015957](https://user-images.githubusercontent.com/84517689/212787383-feffe7b2-0982-4f81-93f7-d736ec680f64.jpg)
+![Capture d’écran 2023-01-17 020056](https://user-images.githubusercontent.com/84517689/212787446-2aeb6dfc-445b-4c31-bcfc-ec35e32c8b08.jpg)
+![Capture d’écran 2023-01-17 020142](https://user-images.githubusercontent.com/84517689/212787497-750af466-f35a-4c3c-b259-719288756f89.jpg)
+![Capture d’écran 2023-01-17 020227](https://user-images.githubusercontent.com/84517689/212787558-f66b2f40-4f36-475a-925e-bfa70825d4fc.jpg)
+![Capture d’écran 2023-01-17 020304](https://user-images.githubusercontent.com/84517689/212787606-86f541aa-7ef3-4f1f-a21b-b470af73565b.jpg)
+![Capture d’écran 2023-01-17 020355](https://user-images.githubusercontent.com/84517689/212787683-7a8aeca8-394b-43c4-8302-498eabb27550.jpg)
+![Capture d’écran 2023-01-17 020442](https://user-images.githubusercontent.com/84517689/212787747-cd028085-d37f-486b-8f76-5e60ce59092b.jpg)
+![image](https://user-images.githubusercontent.com/84517689/212787813-eaf337f6-b199-45b5-8509-d2e35866d799.png)
+
+
+Spring Cloud Gateway
+
+
 
 
