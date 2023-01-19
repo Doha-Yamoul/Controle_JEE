@@ -26,6 +26,20 @@ Customer-Service
 
 Spring Cloud Gateway
 
+![Capture d’écran 2022-12-13 122146](https://user-images.githubusercontent.com/84517689/213402019-572c8f4d-d91c-49d2-8a86-d598c52b8886.png)
+![Capture d’écran 2022-12-13 122207](https://user-images.githubusercontent.com/84517689/213402088-acd0244b-677c-45e5-b6a7-b92162c15d48.png)
+![Capture d’écran 2022-12-13 122234](https://user-images.githubusercontent.com/84517689/213402179-e27f4f57-b5e6-43cc-9361-64cdf51d24be.png)
+
+Eureka Discrovery Service
+
+![image](https://user-images.githubusercontent.com/84517689/213402589-ac8b8503-580b-4ffe-a038-1a8532916a82.png)
+![image](https://user-images.githubusercontent.com/84517689/213402798-25942cb9-07bf-4aac-8824-d03447bf5d42.png)
+![image](https://user-images.githubusercontent.com/84517689/213402957-fd9eb67c-f344-4075-878b-a0836fac5035.png)
+
+
+
+
+
 
 
 
